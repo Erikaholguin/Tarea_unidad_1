@@ -1,4 +1,4 @@
-# Mi_primer_repositorio
+# Mi_Primer_Repositorio
 este repositorio tiene tiene Código JavaVSC
 
 Esta realizado para compilar y correr en Visual Studio Code 
